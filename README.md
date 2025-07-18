@@ -19,7 +19,7 @@ git clone https://github.com/DaWae404/weather_app_react.git
 cd weather_app_react
 
 #2. Install dependencies
-npm install
+   - npm install
 
 #3. Set up your environment variables
 
