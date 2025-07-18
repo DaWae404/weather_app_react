@@ -15,7 +15,7 @@ A simple weather app built with **React** and styled with **CSS**. It uses the [
 
 #1. Clone the repository
 Terminal-
-git clone https://github.com/DaWae404/weather_app_react.git
+git clone https://github.com/DaWae404/weather_app_react.git, then
 cd weather_app_react
 
 #2. Install dependencies
